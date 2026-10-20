@@ -1,6 +1,6 @@
 ## Hi, I’m Petteri!
 
-I'm a full-stack web developer. My main stack has been **Java** with **Spring Boot** and **TypeScript** with **React**. I also have hands-on experience with **AWS**, **Linux system administration**, and a strong interest in **application security**.
+I am a full-stack developer who enjoys building reliable web applications that are secure, well-tested, and genuinely useful to the people who use them. I focus on understanding what's actually needed and making sure that's what I deliver.
 
 Check out my portfolio at [pinkkila.com](https://www.pinkkila.com).
 
